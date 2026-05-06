@@ -3,3 +3,5 @@
 - novellette
 - espy
 - cogitation
+- lovelorn
+- requite
