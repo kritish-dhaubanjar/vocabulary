@@ -1,0 +1,5 @@
+- morose
+- univocal
+- novellette
+- espy
+- cogitation
