@@ -5,3 +5,4 @@
 - cogitation
 - lovelorn
 - requite
+- emancipate
