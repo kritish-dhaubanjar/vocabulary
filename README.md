@@ -8,3 +8,4 @@
 - emancipate
 - cogent
 - jocularity
+- karabiner
