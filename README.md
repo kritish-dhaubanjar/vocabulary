@@ -6,3 +6,5 @@
 - lovelorn
 - requite
 - emancipate
+- cogent
+- jocularity
