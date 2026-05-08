@@ -9,3 +9,5 @@
 - cogent
 - jocularity
 - karabiner
+- diffident
+- undogmatic
