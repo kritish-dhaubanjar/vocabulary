@@ -12,3 +12,4 @@
 - diffident
 - undogmatic
 - presentient
+- ostensibly
