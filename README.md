@@ -14,3 +14,4 @@
 - presentient
 - ostensibly
 - irascible
+- incipience
