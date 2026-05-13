@@ -15,3 +15,5 @@
 - ostensibly
 - irascible
 - incipience
+- equivocal
+- somber
