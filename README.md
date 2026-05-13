@@ -17,3 +17,4 @@
 - incipience
 - equivocal
 - somber
+- stoic
