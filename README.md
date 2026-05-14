@@ -18,3 +18,5 @@
 - equivocal
 - somber
 - stoic
+- solicitous
+- bemused
