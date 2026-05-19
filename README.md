@@ -21,3 +21,5 @@
 - solicitous
 - bemused
 - clowder
+- ephemeral
+- ramify
