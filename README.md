@@ -24,3 +24,4 @@
 - ephemeral
 - ramify
 - taciturn
+- impunity
