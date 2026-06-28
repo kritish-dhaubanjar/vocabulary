@@ -26,3 +26,4 @@
 - taciturn
 - impunity
 - preclude
+- burgeon
