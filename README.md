@@ -27,3 +27,4 @@
 - impunity
 - preclude
 - burgeon
+- ascetically
