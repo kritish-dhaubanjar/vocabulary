@@ -28,3 +28,5 @@
 - preclude
 - burgeon
 - ascetically
+- trite
+- aporia
