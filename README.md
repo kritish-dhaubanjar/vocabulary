@@ -30,3 +30,4 @@
 - ascetically
 - trite
 - aporia
+- cyclothymic
