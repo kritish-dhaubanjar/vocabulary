@@ -31,3 +31,5 @@
 - trite
 - aporia
 - cyclothymic
+- ubiquitousness
+- sedulous
