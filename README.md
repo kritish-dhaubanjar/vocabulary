@@ -33,3 +33,5 @@
 - cyclothymic
 - ubiquitousness
 - sedulous
+- beseech
+- irrefrangible
