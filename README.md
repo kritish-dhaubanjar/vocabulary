@@ -35,3 +35,5 @@
 - sedulous
 - beseech
 - irrefrangible
+- pliancy
+- ichoative
