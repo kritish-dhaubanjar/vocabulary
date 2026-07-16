@@ -36,5 +36,5 @@
 - beseech
 - irrefrangible
 - pliancy
-- ichoative
+- inchoative
 - renunciation
