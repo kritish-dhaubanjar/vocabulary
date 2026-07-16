@@ -37,3 +37,4 @@
 - irrefrangible
 - pliancy
 - ichoative
+- renunciation
