@@ -39,3 +39,4 @@
 - inchoative
 - renunciation
 - mangle
+- masquerade
