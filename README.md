@@ -38,3 +38,4 @@
 - pliancy
 - inchoative
 - renunciation
+- mangle
