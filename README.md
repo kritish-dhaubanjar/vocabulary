@@ -40,3 +40,4 @@
 - renunciation
 - mangle
 - masquerade
+- usurper
