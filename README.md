@@ -41,3 +41,4 @@
 - mangle
 - masquerade
 - usurper
+- opulence
