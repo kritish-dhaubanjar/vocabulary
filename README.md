@@ -45,3 +45,4 @@
 - fallible
 - rubicon
 - solipsistic
+- parity
