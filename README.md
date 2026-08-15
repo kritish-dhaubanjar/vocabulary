@@ -44,3 +44,4 @@
 - opulence
 - fallible
 - rubicon
+- solipsistic
