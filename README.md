@@ -47,3 +47,4 @@
 - solipsistic
 - parity
 - novate
+- deride
