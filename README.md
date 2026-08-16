@@ -46,3 +46,4 @@
 - rubicon
 - solipsistic
 - parity
+- novate
