@@ -48,3 +48,5 @@
 - parity
 - novate
 - deride
+- lucid
+- vire
