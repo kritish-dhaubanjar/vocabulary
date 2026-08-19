@@ -50,3 +50,4 @@
 - deride
 - lucid
 - vire
+- insinuate
