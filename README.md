@@ -51,3 +51,4 @@
 - lucid
 - vire
 - insinuate
+- smellfungus
