@@ -52,3 +52,4 @@
 - vire
 - insinuate
 - smellfungus
+- ferrule
