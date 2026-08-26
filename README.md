@@ -53,3 +53,4 @@
 - insinuate
 - smellfungus
 - ferrule
+- superfluously
