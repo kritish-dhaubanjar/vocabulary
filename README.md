@@ -54,3 +54,4 @@
 - smellfungus
 - ferrule
 - superfluously
+- vindicate
