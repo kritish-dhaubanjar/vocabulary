@@ -55,3 +55,4 @@
 - ferrule
 - superfluously
 - vindicate
+- endian
