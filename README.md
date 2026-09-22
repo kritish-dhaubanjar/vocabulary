@@ -56,3 +56,4 @@
 - superfluously
 - vindicate
 - endian
+- delinquent
