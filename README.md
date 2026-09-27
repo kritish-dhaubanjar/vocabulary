@@ -57,3 +57,4 @@
 - vindicate
 - endian
 - delinquent
+- operose
