@@ -58,3 +58,4 @@
 - endian
 - delinquent
 - operose
+- quorum
