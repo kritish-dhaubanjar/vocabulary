@@ -59,3 +59,4 @@
 - delinquent
 - operose
 - quorum
+- verbatim
