@@ -60,3 +60,4 @@
 - operose
 - quorum
 - verbatim
+- gumption
